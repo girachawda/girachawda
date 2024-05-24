@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @girachawda
-- 👀 I’m interested in software development and programming!
-- 🌱 I’m currently learning python & ruby
+- 🌱 I’m currently learning java & ruby
 - 📚 expanding my knowledge with shopify & york
 
 <!---
