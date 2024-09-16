@@ -1,4 +1,4 @@
-- 👋 future CEO
+- 👋 gira - future CEO
 - 🌱 ruby on rails | currently learning next.js
 - 📚 expanding my knowledge with shopify & york
 
