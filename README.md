@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @girachawda
-- 🌱 Ruby on Rails + GraphQL | Currently learning Next.js
+- 🌱 ruby on rails | currently learning next.js
 - 📚 expanding my knowledge with shopify & york
 
 <!---
