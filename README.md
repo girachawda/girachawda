@@ -1,6 +1,6 @@
 - 👋 gira - future CEO
-- 🌱 ruby on rails | currently learning next.js
-- 📚 expanding my knowledge with shopify & york
+- 🌱 ruby on rails, react & java
+- 📚 expanding my knowledge with shopify & yorku
 
 <!---
 girachawda/girachawda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
