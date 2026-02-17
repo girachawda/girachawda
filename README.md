@@ -10,4 +10,4 @@
 ## why i'm here 🚀
 - Making tech accessible means showing the real journey—not just the wins. Since 14 y/o, I've shared my programming ups and downs on social media to prove one thing: you don't need to be perfect to start. It's hard work, it's messy, and yes, it's glamorous sometimes too.
 ---
-**let's connect:** [website](https://girachawda.vercel.app/) • [linkedin](https://linkedin.com/in/girachawda) • [tiktok](https://www.tiktok.com/@giraintech) • [youtube](https://www.youtube.com/@girachawda)
+**let's connect:** [website](https://girachawda.com) • [linkedin](https://linkedin.com/in/girachawda) • [tiktok](https://www.tiktok.com/@giraintech) • [youtube](https://www.youtube.com/@girachawda)
