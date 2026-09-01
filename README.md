@@ -1,6 +1,6 @@
 ## 👋 gira here - future CEO in the making
 
-**Software Engineer Intern @ Shopify, Dev Degree | Digital Tech Student @ York University**
+**Software Engineer Intern @ Shopify, Dev Degree | Digital Tech Student @ York University | @giraintech on socials**
 
 ## what i do 💻
 - 🛠️ Building with: Ruby on Rails, React & Java
